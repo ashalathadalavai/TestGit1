@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "ENTERPRISE-PRD Refresh History"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9ff80ea7-00d4-404b-8be4-b8d925382ab0"
+  }
+}
